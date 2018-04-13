@@ -1,0 +1,10 @@
+{
+  "name": "LuaCombinator",
+  "version": "0.0.6",
+  "title": "Patched LuaCombinator",
+  "author": "James O'Farrell, updated by Aaron Becker",
+  "homepage": "",
+  "dependencies": ["base"],
+  "description": "Finally updated from 0.12 to 0.16! A combinator to run lua commands ingame.",
+  "factorio_version": "0.16"
+}
